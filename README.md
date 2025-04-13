@@ -1,4 +1,4 @@
-# BlockVotes
+# E-Voting Using Bloakc Chain
 
 **An e-voting system based on blockchain using ring signature**
 
