@@ -155,3 +155,9 @@ Run Composer to install all dependencies:
 ```
 php composer.phar install
 ```
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Contact
+For any queries, reach out at rcrathod13@gmail.com or open an issue on GitHub!
